@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:34:22-71
+application
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:5-48:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\saran\.android\build-cache\98ff6398739629d63f72d25e1fd416a7d62f64a9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\saran\.android\build-cache\ef6aca53df66424429213141d4c32b41904d6b2e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saran\.android\build-cache\256516be7bc48d5aa8fcaa0175c770efcf44f337\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saran\.android\build-cache\0fb4f339341f174671642ad16ecbf1fb86cb1b0a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\saran\.android\build-cache\f9239ad5d933e6bcf82f70e93c28c5041501cfe0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\saran\.android\build-cache\1704d23823fb2c4c06baaae85071960f8c07e324\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\f487fb4b4dff57ed33a373df46710aa136959d41\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\95fe29995b1e6d7b6fa151eb472c69671a713c32\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\saran\.android\build-cache\85629deddf03cae291adb6464ad0ebc0b0292cb4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\saran\.android\build-cache\657ab16b9c8fa2f082e2c428b7b8b0c47ec2fd45\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\saran\.android\build-cache\d756e196ac847cd1519be08cd70712f010c18682\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:36:18-50
+	android:icon
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:38:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:39:9-45:20
+	android:label
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:39:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:46:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:9-77
+	android:enabled
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:53-75
+	android:name
+		ADDED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml:47:18-52
+uses-sdk
+INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\saran\.android\build-cache\98ff6398739629d63f72d25e1fd416a7d62f64a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\saran\.android\build-cache\ef6aca53df66424429213141d4c32b41904d6b2e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saran\.android\build-cache\256516be7bc48d5aa8fcaa0175c770efcf44f337\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saran\.android\build-cache\0fb4f339341f174671642ad16ecbf1fb86cb1b0a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\saran\.android\build-cache\f9239ad5d933e6bcf82f70e93c28c5041501cfe0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\saran\.android\build-cache\1704d23823fb2c4c06baaae85071960f8c07e324\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\f487fb4b4dff57ed33a373df46710aa136959d41\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\95fe29995b1e6d7b6fa151eb472c69671a713c32\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\saran\.android\build-cache\85629deddf03cae291adb6464ad0ebc0b0292cb4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\saran\.android\build-cache\657ab16b9c8fa2f082e2c428b7b8b0c47ec2fd45\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\saran\.android\build-cache\d756e196ac847cd1519be08cd70712f010c18682\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Andriod Projects NYU\android-BluetoothLeGatt-master\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\saran\.android\build-cache\98ff6398739629d63f72d25e1fd416a7d62f64a9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\saran\.android\build-cache\ef6aca53df66424429213141d4c32b41904d6b2e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\saran\.android\build-cache\256516be7bc48d5aa8fcaa0175c770efcf44f337\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\saran\.android\build-cache\0fb4f339341f174671642ad16ecbf1fb86cb1b0a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\saran\.android\build-cache\f9239ad5d933e6bcf82f70e93c28c5041501cfe0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\saran\.android\build-cache\1704d23823fb2c4c06baaae85071960f8c07e324\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\f487fb4b4dff57ed33a373df46710aa136959d41\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\saran\.android\build-cache\95fe29995b1e6d7b6fa151eb472c69671a713c32\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\saran\.android\build-cache\85629deddf03cae291adb6464ad0ebc0b0292cb4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\saran\.android\build-cache\657ab16b9c8fa2f082e2c428b7b8b0c47ec2fd45\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\saran\.android\build-cache\f50f8749e948d2b255794a10965705a698483062\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\saran\.android\build-cache\d756e196ac847cd1519be08cd70712f010c18682\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\saran\.android\build-cache\d756e196ac847cd1519be08cd70712f010c18682\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\saran\.android\build-cache\d756e196ac847cd1519be08cd70712f010c18682\output\AndroidManifest.xml:26:13-58
